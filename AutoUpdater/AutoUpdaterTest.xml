@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
     <version>3.0.0.0</version>
-    <url>https://gitee.com/shiningpu/release-file/raw/master/PDSCertificateSetup.exe</url>
+    <url>https://gitee.com/shiningpu/release-file/raw/master/Label.exe</url>
     <changelog>https://gitee.com/shiningpu/release-file/raw/master/Cetificate/2.0-release-notes.md</changelog>
     <mandatory>false</mandatory>
 </item>
