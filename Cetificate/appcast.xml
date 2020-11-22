@@ -14,6 +14,7 @@
             <enclosure url="https://gitee.com/shiningpu/release-file/raw/master/Label.exe"
                        sparkle:version="2.0"
                        sparkle:os="windows"
+                       length="6303744"
                        type="application/octet-stream"
                        sparkle:signature="/qdfKUxIYWg1xbyeAP0rQHrWg3zsOKj+RTqr60FWyKU="/>
         </item>
