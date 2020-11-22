@@ -16,7 +16,7 @@
                        sparkle:os="windows"
                        length="6303744"
                        type="application/octet-stream"
-                       sparkle:signature="/qdfKUxIYWg1xbyeAP0rQHrWg3zsOKj+RTqr60FWyKU="/>
+                       sparkle:dsaSignature="NSG/eKz9BaTJrRDvKSwYEaOumYpPMtMYRq+vjsNlHqRGku/Ual3EoQ=="/>
         </item>
     </channel>
 </rss>
