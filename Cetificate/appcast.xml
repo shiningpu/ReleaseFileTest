@@ -11,12 +11,11 @@
             https://gitee.com/shiningpu/release-file/raw/master/Cetificate/2.0-release-notes.md
             </sparkle:releaseNotesLink>
             <pubDate>Nov, 22 Oct 2020 13:12:00 +0000</pubDate>
-            <enclosure url="https://netsparkleupdater.github.io/NetSparkle/files/sample-app/NetSparkleUpdate.exe"
+            <enclosure url="https://gitee.com/shiningpu/release-file/raw/master/PDSCertificateSetup.msi"
                        sparkle:version="2.0"
                        sparkle:os="windows"
-                       length="12288"
                        type="application/octet-stream"
-                       sparkle:signature="NSG/eKz9BaTJrRDvKSwYEaOumYpPMtMYRq+vjsNlHqRGku/Ual3EoQ==" />
+                       sparkle:signature="/qdfKUxIYWg1xbyeAP0rQHrWg3zsOKj+RTqr60FWyKU="/>
         </item>
     </channel>
 </rss>
