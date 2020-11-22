@@ -15,6 +15,7 @@
                        sparkle:version="2.0"
                        sparkle:os="windows"
                        type="application/octet-stream"
+                       sparkle:signature="/qdfKUxIYWg1xbyeAP0rQHrWg3zsOKj+RTqr60FWyKU="/>
         </item>
     </channel>
 </rss>
